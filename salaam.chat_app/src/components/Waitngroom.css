@@ -1,0 +1,23 @@
+.waitngroom-container {
+    background: seashell no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.waitngroom-form {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}

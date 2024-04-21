@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|d:\\asp.net core\\\u0645\u0633\u062A\u0642\u0644\\salaam\\salaam.cahtserviceapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|solutionrelative:salaam.cahtserviceapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|d:\\asp.net core\\\u0645\u0633\u062A\u0642\u0644\\salaam\\salaam.cahtserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|solutionrelative:salaam.cahtserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|d:\\asp.net core\\\u0645\u0633\u062A\u0642\u0644\\salaam\\salaam.cahtserviceapi\\data\\entitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|solutionrelative:salaam.cahtserviceapi\\data\\entitydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|d:\\asp.net core\\\u0645\u0633\u062A\u0642\u0644\\salaam\\salaam.cahtserviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|solutionrelative:salaam.cahtserviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|d:\\asp.net core\\\u0645\u0633\u062A\u0642\u0644\\salaam\\salaam.cahtserviceapi\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDCCCB6-2D6D-42C7-8D0C-6DF3C0B4799E}|Salaam.CahtServiceApi\\Salaam.CahtServiceApi.csproj|solutionrelative:salaam.cahtserviceapi\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1363996317:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1469346445:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:927308758:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:830113501:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityDb.cs",
+              "DocumentMoniker": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Data\\EntityDb.cs",
+              "RelativeDocumentMoniker": "Salaam.CahtServiceApi\\Data\\EntityDb.cs",
+              "ToolTip": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Data\\EntityDb.cs",
+              "RelativeToolTip": "Salaam.CahtServiceApi\\Data\\EntityDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:19:48.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Salaam.CahtServiceApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Salaam.CahtServiceApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T20:13:15.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Program.cs",
+              "RelativeDocumentMoniker": "Salaam.CahtServiceApi\\Program.cs",
+              "ToolTip": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Program.cs",
+              "RelativeToolTip": "Salaam.CahtServiceApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:01:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Salaam.CahtServiceApi\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Salaam.CahtServiceApi\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:55:28.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "Salaam.CahtServiceApi\\Models\\UserConnection.cs",
+              "ToolTip": "D:\\Asp.net core\\\u0645\u0633\u062A\u0642\u0644\\Salaam\\Salaam.CahtServiceApi\\Models\\UserConnection.cs",
+              "RelativeToolTip": "Salaam.CahtServiceApi\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:54:00.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
